@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/Ruby-Practice-1"
+		},
+		{
+			"path": "RockPaperScissor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RockPaperScissor"
+	}
+}
